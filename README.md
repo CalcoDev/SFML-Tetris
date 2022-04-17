@@ -33,7 +33,7 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-
+!!! Some of the code (text rendering function, font and some of the rotation code was taken from [KofyBrek](https://www.youtube.com/c/Kofybrek)) !!!
 [![Product Name Screen Shot][product-screenshot]](https://github.com/CalcoDev/SFML-Tetris)
 
 A somewhat working clone of the classic game Tetris made in C++ using SFML. This was made in 2 days, and besides the very badly written and structured code and some small glitches in the game, it's working.
