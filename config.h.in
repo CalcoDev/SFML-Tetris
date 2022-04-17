@@ -1,0 +1,3 @@
+#pragma once
+#define PROJECT_VERSION_MAJOR @SFMLHelloWorld_VERSION_MAJOR@ 
+#define PROJECT_VERSION_MINOR @SFMLHelloWorld_VERSION_MINOR@ 
