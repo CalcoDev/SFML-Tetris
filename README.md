@@ -56,4 +56,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Calcopod - [@Calcopod](https://twitter.com/Calcopod2)
 
-[product-screenshot]: GithubImages/ProductScreenshot.png
+[product-screenshot]: GithubImages/ProductScreenshot.PNG
